@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CometChatCallButtons">
+
+        <attr name="cometchatCallButtonsVoiceCallIcon" format="reference" />
+        <attr name="cometchatCallButtonsVideoCallIcon" format="reference" />
+
+        <attr name="cometchatCallButtonsVideoCallIconTint" format="color" />
+        <attr name="cometchatCallButtonsVoiceCallIconTint" format="color" />
+
+        <attr name="cometchatCallButtonsVoiceCallTextColor" format="color" />
+        <attr name="cometchatCallButtonsVideoCallTextColor" format="color" />
+
+        <attr name="cometchatCallButtonsVoiceCallTextAppearance" format="reference" />
+        <attr name="cometchatCallButtonsVideoCallTextAppearance" format="reference" />
+
+        <attr name="cometchatCallButtonsVoiceCallBackgroundColor" format="color" />
+        <attr name="cometchatCallButtonsVideoCallBackgroundColor" format="color" />
+
+        <attr name="cometchatCallButtonsVoiceCallCornerRadius" format="dimension" />
+        <attr name="cometchatCallButtonsVideoCallCornerRadius" format="dimension" />
+
+        <attr name="cometchatCallButtonsVoiceCallIconSize" format="dimension" />
+        <attr name="cometchatCallButtonsVideoCallIconSize" format="dimension" />
+
+        <attr name="cometchatCallButtonsVoiceCallStrokeWidth" format="dimension" />
+        <attr name="cometchatCallButtonsVideoCallStrokeWidth" format="dimension" />
+
+        <attr name="cometchatCallButtonsVoiceCallStrokeColor" format="color" />
+        <attr name="cometchatCallButtonsVideoCallStrokeColor" format="color" />
+
+        <attr name="cometchatCallButtonsVoiceCallButtonPadding" format="dimension" />
+        <attr name="cometchatCallButtonsVideoCallButtonPadding" format="dimension" />
+
+        <attr name="cometchatCallButtonsMarginBetween" format="dimension" />
+
+        <attr name="cometchatCallButtonsStyle" format="reference" />
+
+    </declare-styleable>
+
+</resources>

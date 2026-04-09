@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CometChatMessageList">
+
+        <attr name="cometchatMessageListIncomingMessageBubbleStyle" format="reference" />
+        <attr name="cometchatMessageListOutgoingMessageBubbleStyle" format="reference" />
+        <attr name="cometchatMessageListActionBubbleStyle" format="reference" />
+        <attr name="cometchatMessageListCallActionBubbleStyle" format="reference" />
+        <attr name="cometchatMessageListDateSeparatorStyle" format="reference" />
+        <attr name="cometchatMessageListStyle" format="reference" />
+
+        <attr name="cometchatMessageListErrorStateTitleTextAppearance" format="reference" />
+        <attr name="cometchatMessageListErrorStateSubtitleTextAppearance" format="reference" />
+        <attr name="cometchatMessageListErrorStateTitleTextColor" format="color" />
+        <attr name="cometchatMessageListErrorStateSubtitleTextColor" format="color" />
+        <attr name="cometchatMessageListDeleteDialogStyle" format="reference" />
+
+        <attr name="cometchatMessageListEmptyChatGreetingTitleTextColor" format="color" />
+        <attr name="cometchatMessageListEmptyChatGreetingTitleTextAppearance" format="reference" />
+        <attr name="cometchatMessageListEmptyChatGreetingSubtitleTextColor" format="color" />
+        <attr name="cometchatMessageListEmptyChatGreetingSubtitleTextAppearance" format="reference" />
+
+        <attr name="cometchatMessageListAIAssistantSuggestedMessageTextAppearance" format="reference" />
+        <attr name="cometchatMessageListAIAssistantSuggestedMessageTextColor" format="color" />
+        <attr name="cometchatMessageListAIAssistantSuggestedMessageCornerRadius" format="dimension" />
+        <attr name="cometchatMessageListAIAssistantSuggestedMessageStrokeWidth" format="dimension" />
+        <attr name="cometchatMessageListAIAssistantSuggestedMessageStrokeColor" format="color" />
+        <attr name="cometchatMessageListAIAssistantSuggestedMessageBackgroundColor" format="color" />
+        <attr name="cometchatMessageListAIAssistantSuggestedMessageEndIcon" format="reference" />
+        <attr name="cometchatMessageListAIAssistantSuggestedMessageEndIconTint" format="color" />
+
+        <attr name="cometchatMessageListStrokeWidth" format="dimension" />
+        <attr name="cometchatMessageListStrokeColor" format="color" />
+        <attr name="cometchatMessageListCornerRadius" format="dimension" />
+        <attr name="cometchatMessageListBackgroundColor" format="color" />
+        <attr name="cometchatMessageListBackgroundDrawable" format="reference" />
+
+        <attr name="cometchatMessageListMessageInformationStyle" format="reference" />
+        <attr name="cometchatMessageListMessageOptionSheetStyle" format="reference" />
+        <attr name="cometchatMessageListAISmartRepliesStyle" format="reference" />
+        <attr name="cometchatMessageListAIConversationStarterStyle" format="reference" />
+        <attr name="cometchatMessageListReactionListStyle" format="reference" />
+        <attr name="cometchatMessageListAIConversationSummaryStyle" format="reference" />
+
+        <attr name="cometchatMessageListNewMessageIndicatorSeparatorColor" format="color" />
+        <attr name="cometchatMessageListNewMessageIndicatorTextColor" format="color" />
+        <attr name="cometchatMessageListNewMessageIndicatorTextAppearance" format="reference" />
+    </declare-styleable>
+</resources>
