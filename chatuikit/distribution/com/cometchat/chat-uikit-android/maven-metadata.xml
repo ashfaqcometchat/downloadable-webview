@@ -3,11 +3,12 @@
   <groupId>com.cometchat</groupId>
   <artifactId>chat-uikit-android</artifactId>
   <versioning>
-    <latest>5.2.12</latest>
-    <release>5.2.12</release>
+    <latest>5.2.13-test</latest>
+    <release>5.2.13-test</release>
     <versions>
       <version>5.2.12</version>
+      <version>5.2.13-test</version>
     </versions>
-    <lastUpdated>20260409130722</lastUpdated>
+    <lastUpdated>20260409135311</lastUpdated>
   </versioning>
 </metadata>
